@@ -1,1 +1,0 @@
-SELECT Count(*) FROM Member WHERE location = "New York";
