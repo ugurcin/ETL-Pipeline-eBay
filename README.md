@@ -7,7 +7,7 @@ In this project we created an ETL pipeline that takes semi-structured data from 
 
 "design.pdf" is an entity-relationship model or schema of this data.
 
-"parser.py" is a python program that reads these JSON files and transforms them into structured DAT files. 
+"parser.py" is the main python program that reads these JSON files and transforms them into structured DAT files. 
 
 "runParser.sh" is a shell script that sorts and cleans these DAT files.
 
