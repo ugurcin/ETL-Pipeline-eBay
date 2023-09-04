@@ -8,7 +8,7 @@ In this project we created an ETL pipeline that takes semi-structured data from 
 
 "parser.py" is the main python program that reads these JSON files and transforms them into structured DAT files. 
 
-The 'runParser.sh' shell script includes the command to execute the main program, followed by sorting and cleaning the DAT files.
+The 'Powershell commands' includes the command to execute the main program, followed by sorting and cleaning the DAT files.
 
 "Structured Data" folder contains all DAT files.
 
